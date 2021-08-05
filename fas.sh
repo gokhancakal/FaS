@@ -245,7 +245,7 @@ lvm_reduce(){
 #VISUALIZATION
 menu(){ 
 	printf "\n${yel}##################################################${normal}";
-	printf "\n${yel}###################${normal} [FaS v0.8] ${yel}###################${normal}";
+	printf "\n${yel}###################${normal} [FaS v0.9] ${yel}###################${normal}";
     printf "\n${yel}##################################################${normal}\n";
 	printf "${yel}#####                  :                  -  #####${normal}\n";
 	printf "${yel}#####                ++:               -+::  #####${normal}\n";
