@@ -1,5 +1,5 @@
 ## FaS v0.9 ##
-First of all "FaS" means "Fast As a Shark". It is a shell script that makes it possible to configure linux servers quickly as possible. It has a interface and easy to use.
+First of all "FaS" means "Fast As a Shark". It is a shell script that makes it possible to configure linux servers quickly as possible. It has an interface and easy to use.
 
 Usage :
 ``` 	 	
